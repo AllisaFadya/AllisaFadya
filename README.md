@@ -1,38 +1,22 @@
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9Igho663cEIDZzUI/giphy.gif" width="200" alt="Shin-chan Greeting">
-  
-  # Haloww !!, Aku Allisa Fadya! 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7B2CBF,100:FF758F&height=210&section=header&text=Allisa%20Fadya&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%9C%A8%20UAD%20Alumni&descAlignY=58&descSize=18" width="100%" alt="Allisa Fadya Banner" />
 
-</div>
-
-
-### 🛠️ Tech Stack & Senjata Rahasia
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
----
-
-### 📊 Statistik Petualangan (Sejauh ini...)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllisaFadya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Allisa's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllisaFadya&theme=tokyonight&hide_border=true&background=0D1117" alt="Allisa's Streak" />
-</div>
-
----
-
-### 📫 Mari Berteman!
-<div align="center">
-  <a href="http://allisafc.web.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Web">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=520&lines=Hello+World!+I'm+Allisa+Fadya+%F0%9F%96%A4;Full-Stack+Web+Developer+%E2%9A%A1;Universitas+Ahmad+Dahlan+Graduate+%F0%9F%8E%93;Building+clean+code+with+aesthetic+vibes+%E2%9C%A8" alt="Typing SVG" />
   </a>
+
+  <br/>
+  <img src="https://media.giphy.com/media/xT9Igho663cEIDZzUI/giphy.gif" width="180" alt="Shin-chan Greeting" />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/VbKLOdvCxBFNZpY9m4/giphy.gif" width="150" alt="Shin-chan Bye">
-</div>
+
+---
+
+### 🖤 About Me
+
+```yaml
+name: Allisa Fadya
+education: Informatics Graduate — Universitas Ahmad Dahlan (UAD) 🎓
+role: Web Developer (Frontend & Backend)
+vibe: Aesthetic UI meets solid backend logic ✨
+status: Open for collaborations, freelance projects, & cool tech talks 🚀

@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&width=820&height=40&lines=Hi+there!+I'm+Allisa+Fadya+%F0%9F%96%A4;Informatics+Engineering+%E2%80%A2+Universitas+Ahmad+Dahlan;Full-Stack+Web+Developer+%26+Application+Support+%E2%9A%A1;Turning+clean+logic+into+aesthetic+digital+experiences+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<img src="https://raw.githubusercontent.com/AllisaFadya/AllisaFadya/main/hero.svg" width="720" alt="Terminal intro: Allisa Fadya, full-stack dev, data analyst, QA specialist" />
+<img src="https://raw.githubusercontent.com/AllisaFadya/AllisaFadya/main/hero (1).svg" width="720" alt="Terminal intro: Allisa Fadya, full-stack dev, data analyst, QA specialist" />
 
 <br/><br/>
 

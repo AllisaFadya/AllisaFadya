@@ -36,10 +36,10 @@
   <tr>
     <td width="55%" valign="top">
       <p>
-        Hey! I'm <b>Allisa Fadya</b>, a passionate <b>Web Developer</b>, <b>Application Support & QA Specialist</b>, and <b>Data Analyst</b> based in Indonesia. I hold a Bachelor's degree in <b>Informatics Engineering</b> from <b>Universitas Ahmad Dahlan, Yogyakarta</b>.
+        Hey! I'm <b>Allisa Fadya</b>, a passionate <b>Web Developer</b>, <b>Application Support</b>, and <b>Data Analyst</b> based in Indonesia. I hold a Bachelor's degree in <b>Informatics Engineering</b> from <b>Universitas Ahmad Dahlan, Yogyakarta</b>.
       </p>
       <ul>
-        <li>💻 <b>What I Do:</b> Building responsive full-stack web apps, testing & maintaining enterprise healthcare systems (SIMRS), and turning raw data into insights.</li>
+        <li>💻 <b>What I Do:</b> Building responsive full-stack web apps, testing & maintaining, and turning raw data into insights.</li>
         <li>🎨 <b>My Vibe:</b> Combining solid backend architecture with playful, interactive, and visually pleasing frontend details.</li>
         <li>🚀 <b>Currently:</b> Exploring modern 3D web experiences, refining Laravel ecosystems, and open for exciting tech collaborations.</li>
       </ul>
@@ -94,7 +94,7 @@ I build responsive web apps from database to interface: clean Laravel back-ends,
 <summary><b>🧪 Application Support & QA</b></summary>
 <br/>
 
-I test, troubleshoot, and maintain enterprise healthcare systems (SIMRS), where reliability matters because real people depend on it every day.
+I test, troubleshoot, and maintain enterprise, where reliability matters because real people depend on it every day.
 
 ![Testing](https://img.shields.io/badge/Focus-Testing%20%26%20Bug%20Reporting-7B2CBF?style=flat-square)
 ![Support](https://img.shields.io/badge/Focus-Application%20Support-FF758F?style=flat-square)
@@ -171,7 +171,7 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 <br/>
 
-### 🐍 My contribution snake
+### 🐍 My POOR contribution snake HUHU
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllisaFadya/AllisaFadya/output/github-snake-dark.svg" />
@@ -201,7 +201,7 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 - Always matcha over coffee.
 - Logic first, aesthetics always.
-- Big fan of a good Shin-chan reference.
+- Fan of a good Shin-chan reference.
 
 </details>
 

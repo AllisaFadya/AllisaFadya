@@ -1,14 +1,12 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7B2CBF,100:FF758F&height=220&section=header&text=Allisa%20Fadya&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%9C%A8%20Data%20Analyst%20%E2%9C%A8%20QA%20Specialist&descAlignY=58&descSize=16" width="100%" alt="Allisa Fadya Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF79C6&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Allisa+Fadya+%F0%9F%96%A4;Informatics+Engineering+%E2%80%A2+Universitas+Ahmad+Dahlan;Full-Stack+Web+Developer+%26+Application+Support+%E2%9A%A1;Turning+clean+logic+into+aesthetic+digital+experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&width=820&height=40&lines=Hi+there!+I'm+Allisa+Fadya+%F0%9F%96%A4;Informatics+Engineering+%E2%80%A2+Universitas+Ahmad+Dahlan;Full-Stack+Web+Developer+%26+Application+Support+%E2%9A%A1;Turning+clean+logic+into+aesthetic+digital+experiences+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/>
-<img src="https://media.giphy.com/media/xT9Igho663cEIDZzUI/giphy.gif" width="175" alt="Shin-chan Greeting" />
+<img src="https://raw.githubusercontent.com/AllisaFadya/AllisaFadya/main/hero.svg" width="720" alt="Terminal intro: Allisa Fadya, full-stack dev, data analyst, QA specialist" />
 
 <br/><br/>
 
@@ -18,19 +16,21 @@
 
 <br/><br/>
 
-<a href="#-about-me"><b>About</b></a> &nbsp;|&nbsp;
-<a href="#-what-i-do"><b>What I Do</b></a> &nbsp;|&nbsp;
-<a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;|&nbsp;
-<a href="#-github-stats"><b>Stats</b></a> &nbsp;|&nbsp;
-<a href="#-lets-connect"><b>Contact</b></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/-About-7B2CBF?style=for-the-badge" alt="About" /></a>
+<a href="#-what-i-do"><img src="https://img.shields.io/badge/-What%20I%20Do-9C3EB3?style=for-the-badge" alt="What I Do" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-BD50A7?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/-Stats-DE639B?style=for-the-badge" alt="Stats" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/-Contact-FF758F?style=for-the-badge" alt="Contact" /></a>
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
 
+<div align="center">
+
 ## 🌸 About Me
+
+</div>
 
 <table>
   <tr>
@@ -68,11 +68,15 @@
   </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
+
+<div align="center">
 
 ## ⚡ What I Do
 
-> 👇 Klik tiap bagian untuk membuka detailnya.
+<sub>Klik tiap bagian untuk membuka detailnya</sub>
+
+</div>
 
 <details open>
 <summary><b>💻 Full-Stack Web Development</b></summary>
@@ -110,11 +114,13 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 </details>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
 
+<div align="center">
+
 ## 🧰 Tech Stack
+
+</div>
 
 <details open>
 <summary><b>🎨 Front-end</b></summary>
@@ -152,40 +158,18 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 </details>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AllisaFadya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9&icon_color=BD93F9&ring_color=FF758F&include_all_commits=true&count_private=true" />
 <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisaFadya&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9" />
 
-<br/>
-
 <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=AllisaFadya&theme=transparent&hide_border=true&background=0D1117&ring=FF79C6&fire=FF758F&currStreakLabel=FF79C6&sideLabels=BD93F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
-<br/><br/>
-
-<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AllisaFadya&bg_color=0D1117&color=FF79C6&line=BD93F9&point=FFFFFF&area=true&area_color=7B2CBF&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<details>
-<summary><b>🏆 Trophy cabinet</b></summary>
 <br/>
-
-<div align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=AllisaFadya&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
 
 ### 🐍 My contribution snake
 
@@ -197,11 +181,13 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
 
+<div align="center">
+
 ## 🌱 Currently Exploring
+
+</div>
 
 | Focus | Status |
 | :-- | :-- |
@@ -219,17 +205,15 @@ I turn raw data into insights people can act on: cleaning, exploring, and presen
 
 </details>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7B2CBF,100:FF758F&height=2" width="100%" alt="" />
-
-## 🤝 Let's Connect
 
 <div align="center">
 
+## 🤝 Let's Connect
+
 <a href="https://allisafc.web.id"><img src="https://img.shields.io/badge/Portfolio-FF758F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:allisafdy16@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/allisafadya"><img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge" alt="LinkedIn" /></a>
 
 <br/><br/>
 
